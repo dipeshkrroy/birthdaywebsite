@@ -6,7 +6,7 @@
 }
 .card{
     width: 58%;
-    height: 60%;
+    height: auto;
     padding: 10px;
     margin-right: 90px;
     margin-bottom: 150px;
